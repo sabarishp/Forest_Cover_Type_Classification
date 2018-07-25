@@ -5,3 +5,5 @@ Logistic Regression
 Random Forest
 Extra trees
 Naive Bayes
+
+Dataset Path: https://archive.ics.uci.edu/ml/datasets/covertype
